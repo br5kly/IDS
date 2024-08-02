@@ -1,2 +1,2 @@
-test
+V1
 https://github.com/br5kly/IDS/edit/main/update.txt
