@@ -1,2 +1,2 @@
 import IDS
-IDS()
+IDS.Subscribe()
